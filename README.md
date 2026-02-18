@@ -5,13 +5,11 @@ The Hospital Appointment Management System is a console-based, menu-driven appli
 It helps manage hospital appointments by allowing patients to book appointments and administrators to view, search, and cancel appointment records efficiently.
 
 Features:
-Book new hospital appointments,
+Vook new hospital appointments,
+view all appoints,
+search
+cancel
 
-View all appointments,
-
-Search appointments by doctor name,
-
-Cancel appointments,
 
 Data stored persistently using MySQL.
 
